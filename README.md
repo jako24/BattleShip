@@ -1,7 +1,9 @@
-#BattleShipGame
+# BattleShipGame
+
 This is a Python implementation of the classic game of Battleship. In this game, two players (a human player and the computer) take turns trying to guess the location of each other's ships on a grid. The first player to sink all of the other player's ships wins.
 
-#Getting Started
+# Getting Started
+ 
 To play the game, you will need to have Python 3 installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
 
 You can also clone this repository to your local machine using git:
@@ -9,7 +11,8 @@ You can also clone this repository to your local machine using git:
 fgit clone https://github.com/your_username/BattleShipGame.git
 ```
 
-#How To Play 
+# How To Play 
+
 To start the game, run the main.py file in a Python interpreter:
 ```
 python main.py
