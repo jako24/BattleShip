@@ -24,3 +24,7 @@ To place a ship on the player's board, the player will need to enter the row and
 To guess the location of the computer's ships on the computer's board, the player will also need to enter the row and column where they want to guess. The game will again prompt the player to enter the row and column separately.
 
 The game will continue until either the player or the computer has sunk all of the other player's ships.
+
+# License
+
+This code is licensed under the MIT License. Feel free to use it for any purpose.
